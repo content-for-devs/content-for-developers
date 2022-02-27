@@ -1,2 +1,2 @@
 # content-for-developers
-https://contentfordevs.com
+Helping early stage and indie tech startups level up their content game! https://contentfordevs.com
